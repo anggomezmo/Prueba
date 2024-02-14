@@ -1,0 +1,21 @@
+.search-url{
+
+    border: solid black 1px;
+    padding: 1.5em;
+    text-align: center;
+}
+.search-url .input1{
+    
+    width: 1400px;
+   
+    
+}.search-url .input2{
+    
+    width: 70px;
+    
+    margin-left: 100px;
+    
+}
+.nav-bar{
+    padding: 1em;
+}
